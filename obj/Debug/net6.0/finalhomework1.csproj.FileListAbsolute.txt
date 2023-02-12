@@ -1,0 +1,15 @@
+/Users/denisbers/mp/hghw1/finalhomework1/bin/Debug/net6.0/finalhomework1
+/Users/denisbers/mp/hghw1/finalhomework1/bin/Debug/net6.0/finalhomework1.deps.json
+/Users/denisbers/mp/hghw1/finalhomework1/bin/Debug/net6.0/finalhomework1.runtimeconfig.json
+/Users/denisbers/mp/hghw1/finalhomework1/bin/Debug/net6.0/finalhomework1.dll
+/Users/denisbers/mp/hghw1/finalhomework1/bin/Debug/net6.0/finalhomework1.pdb
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/finalhomework1.csproj.AssemblyReference.cache
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/finalhomework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/finalhomework1.AssemblyInfoInputs.cache
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/finalhomework1.AssemblyInfo.cs
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/finalhomework1.csproj.CoreCompileInputs.cache
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/finalhomework1.dll
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/refint/finalhomework1.dll
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/finalhomework1.pdb
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/finalhomework1.genruntimeconfig.cache
+/Users/denisbers/mp/hghw1/finalhomework1/obj/Debug/net6.0/ref/finalhomework1.dll
